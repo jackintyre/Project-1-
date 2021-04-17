@@ -6,3 +6,12 @@
 **The code for generating a listing of schools that are known with longitude and latitude is in SportsAPI-002.  The dataframe of location information is saved to Geo_df.csv.
 
 **Events_master_df.csv - copy of dataframe that has all of the scheduling information and school locations as a cleaned data set.
+
+Last Submit- 
+		Geographic Heat map- SportAPI-RCKP02
+		
+		Gender Demo and Audio vs video - SportsAPI-001-JC and SPortsAPI-JC
+
+		Popular Schools and Conferance - ACSportsAPI_Final and SPortsAPI_AClaxtonFinal
+
+		Weekly/daily Schedule - ScheduleSPortsAPI 
